@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Chungus1310
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Welcome to My GitHub Profile!
 
-<!---
-Chungus1310/Chungus1310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there 👋, I'm Chun
+
+I'm passionate about coding, particularly in **Python**, and I have a strong interest in **AI technology**. On this GitHub, you'll find a collection of my projects, experiments, and contributions.
+
+## 🔧 Technologies & Tools I Work With:
+- Python 🐍
+- AI & Machine Learning 🤖
+- Data Science 📊
+- TensorFlow, PyTorch, Scikit-learn
+- Git & GitHub
+
+## 📫 Reach Me:
+Feel free to reach out to me at [chun122.ez@gmail.com](mailto:chun122.ez@gmail.com) for collaboration or any inquiries.
+
+Thanks for visiting my profile! 😊
+
+Happy coding! 🚀
