@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=300&section=header&text=Chungus1310&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=Creative%20Developer%20%7C%20AI%20Enthusiast%20%7C%20UI/UX%20Designer&descAlignY=60&descSize=22&animation=fadeIn" width="100%" alt="Profile Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=300&section=header&text=Chun&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=Creative%20Developer%20%7C%20AI%20Enthusiast%20%7C%20UI/UX%20Designer&descAlignY=60&descSize=22&animation=fadeIn" width="100%" alt="Profile Header">
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Machine+Learning+Expert;GUI+Developer;AI+Integration+Specialist;Full-Stack+Developer)
 </div>
@@ -110,7 +110,7 @@
         <h3 align="center">ML Playground</h3>
         <div align="center">
           <a href="https://github.com/Chungus1310/machine-learning-visualiser-mlbb-" target="_blank">
-            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2I2aTVyMHA2MWJvcGJoZjFmbGVoc2VhNWJiaXA4dGMxaXBnNjBuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy.gif" width="100%" alt="Project 2">
+            <img src="https://media.giphy.com/media/kE6xCyOOHoxlS/giphy.gif?cid=790b7611sg4esbkmxhso2bn2m75h2qbowts1rg2dja6huryv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Project 2">
           </a>
           <p>
             <a href="https://github.com/Chungus1310/machine-learning-visualiser-mlbb-" target="_blank">
@@ -130,7 +130,7 @@
         <h3 align="center">Easy GUI</h3>
         <div align="center">
           <a href="https://github.com/Chungus1310/Easy_GUI" target="_blank">
-            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q1ZTE4dGhmYzY2aGo3cHVoYXlkOXN1ejdhbjA4c2VwYzVoYzFpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btQr54o0IAAziRW/giphy.gif" width="100%" alt="Project 3">
+            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29hdDg0Mml1a2Ztam80ZjdsbzMzNmwzcndtejlzMnQwZzlodmJyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IepJ9cVIR68GdZDgCl/giphy.gif" width="100%" alt="Project 3">
           </a>
           <p>
             <a href="https://github.com/Chungus1310/Easy_GUI" target="_blank">
