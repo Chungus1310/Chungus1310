@@ -110,7 +110,7 @@
         <h3 align="center">ML Playground</h3>
         <div align="center">
           <a href="https://github.com/Chungus1310/machine-learning-visualiser-mlbb-" target="_blank">
-            <img src="https://media.giphy.com/media/kE6xCyOOHoxlS/giphy.gif?cid=790b7611sg4esbkmxhso2bn2m75h2qbowts1rg2dja6huryv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Project 2">
+            <img src="https://media.giphy.com/media/kE6xCyOOHoxlS/giphy.gif" width="100%" alt="Project 2">
           </a>
           <p>
             <a href="https://github.com/Chungus1310/machine-learning-visualiser-mlbb-" target="_blank">
@@ -130,7 +130,7 @@
         <h3 align="center">Easy GUI</h3>
         <div align="center">
           <a href="https://github.com/Chungus1310/Easy_GUI" target="_blank">
-            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29hdDg0Mml1a2Ztam80ZjdsbzMzNmwzcndtejlzMnQwZzlodmJyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IepJ9cVIR68GdZDgCl/giphy.gif" width="100%" alt="Project 3">
+            <img src="https://media.giphy.com/media/IepJ9cVIR68GdZDgCl/giphy.gif" width="100%" alt="Project 3">
           </a>
           <p>
             <a href="https://github.com/Chungus1310/Easy_GUI" target="_blank">
@@ -148,7 +148,7 @@
         <h3 align="center">Waifu with Brain</h3>
         <div align="center">
           <a href="https://github.com/Chungus1310/Waifu-with-brain" target="_blank">
-            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtoeDA1Mnc4dmJ0OHEycHF1bG82cG8zbWNoNzJ0b3ppZDF2NHE0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ta8TjQqFRjJNiNdRzv/giphy.gif" width="100%" alt="Project 4">
+            <img src="https://media.giphy.com/media/Ta8TjQqFRjJNiNdRzv/giphy.gif" width="100%" alt="Project 4">
           </a>
           <p>
             <a href="https://github.com/Chungus1310/Waifu-with-brain" target="_blank">
@@ -168,7 +168,7 @@
         <h3 align="center">Arcs Mermaid Generator</h3>
         <div align="center">
           <a href="https://github.com/Chungus1310/ArcsMermainGenerator" target="_blank">
-            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNhemlyMWlsaHZtdXBpamVvM3A2a2tnZ3I2dDl5eXE1MTlweDF6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFeoQrcwK5hMZaUdnQ/giphy.gif" width="100%" alt="Project 5">
+            <img src="https://media.giphy.com/media/mFeoQrcwK5hMZaUdnQ/giphy.gif" width="100%" alt="Project 5">
           </a>
           <p>
             <a href="https://github.com/Chungus1310/ArcsMermainGenerator" target="_blank">
@@ -186,7 +186,7 @@
         <h3 align="center">AI PC Tools</h3>
         <div align="center">
           <a href="https://github.com/Chungus1310/Ai-pc-tools" target="_blank">
-            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh5anZ6ZDVwa2M1YWQwMzIyYm93cXd1NHJsYjNuNnJ1Z241MjZ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SqqsiWnLVGK3DMp27U/giphy.gif" width="100%" alt="Project 6">
+            <img src="https://media.giphy.com/media/SqqsiWnLVGK3DMp27U/giphy.gif" width="100%" alt="Project 6">
           </a>
           <p>
             <a href="https://github.com/Chungus1310/Ai-pc-tools" target="_blank">
@@ -216,8 +216,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chungus1310&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="37%" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Chungus1310&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="58%" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chungus1310&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
+</div>
+
+<!-- GitHub Trophies - Fixed alignment -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chungus1310&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="98%" alt="GitHub Trophies" />
 </div>
 
 <!-- Activity Graph -->
