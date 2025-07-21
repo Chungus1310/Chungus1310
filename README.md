@@ -145,59 +145,59 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Waifu with Brain</h3>
+        <h3 align="center">ChunRAG</h3>
         <div align="center">
-          <a href="https://github.com/Chungus1310/Waifu-with-brain" target="_blank">
-            <img src="https://media.giphy.com/media/Ta8TjQqFRjJNiNdRzv/giphy.gif" width="100%" alt="Project 4">
+          <a href="https://github.com/Chungus1310/ChunRAG" target="_blank">
+            <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2023/12/retrieval-augmented-generation-questions-answered-1024x576.gif" width="100%" alt="Project 4">
           </a>
           <p>
-            <a href="https://github.com/Chungus1310/Waifu-with-brain" target="_blank">
+            <a href="https://github.com/Chungus1310/ChunRAG" target="_blank">
               <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
-            <a href="https://github.com/Chungus1310/Waifu-with-brain" target="_blank">
+            <a href="https://github.com/Chungus1310/ChunRAG" target="_blank">
               <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&logo=codepen">
             </a>
           </p>
-          <p><strong>JavaScript, React, Google Gemini API</strong></p>
-          <p>A smart AI chat companion with modern dark mode UI, document learning capabilities, and customizable chat personality.</p>
+          <p><strong>JavaScript, React, FastAPI, VectorDB</strong></p>
+          <p>A powerful RAG system with multi-provider LLM support, document intelligence, and beautiful themes. Chat with documents or have general AI conversations.</p>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">Arcs Mermaid Generator</h3>
+        <h3 align="center">LLM Rotation JS</h3>
         <div align="center">
-          <a href="https://github.com/Chungus1310/ArcsMermainGenerator" target="_blank">
-            <img src="https://media.giphy.com/media/mFeoQrcwK5hMZaUdnQ/giphy.gif" width="100%" alt="Project 5">
+          <a href="https://github.com/Chungus1310/llm_rotationJS" target="_blank">
+            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVoZGxqemJ5dmliaWE4c3JybmZhN3V4Y21rMnkwNG90ejE3N2l5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pvkDOmqLxrLL1ixWGp/giphy.gif" width="100%" alt="Project 5">
           </a>
           <p>
-            <a href="https://github.com/Chungus1310/ArcsMermainGenerator" target="_blank">
+            <a href="https://github.com/Chungus1310/llm_rotationJS" target="_blank">
               <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
-            <a href="https://github.com/Chungus1310/ArcsMermainGenerator" target="_blank">
+            <a href="https://github.com/Chungus1310/llm_rotationJS" target="_blank">
               <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&logo=codepen">
             </a>
           </p>
-          <p><strong>Electron, JavaScript, Google Gemini API</strong></p>
-          <p>A cross-platform app for creating Mermaid diagrams with AI assistance, supporting multiple diagram types and export options.</p>
+          <p><strong>TypeScript, Node.js, Multiple LLM APIs</strong></p>
+          <p>Intelligent LLM provider management with automatic API key rotation, rate limit handling, and support for 8+ major providers with smart fallback.</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">AI PC Tools</h3>
+        <h3 align="center">Meeza Reference Studio</h3>
         <div align="center">
-          <a href="https://github.com/Chungus1310/Ai-pc-tools" target="_blank">
-            <img src="https://media.giphy.com/media/SqqsiWnLVGK3DMp27U/giphy.gif" width="100%" alt="Project 6">
+          <a href="https://github.com/Chungus1310/meezaref_studio" target="_blank">
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2poMmxyeDJoOGVpZXYxbm5xeWZrb3R4ODFoOXJhdDl6NnZucmJ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CovFciJgWyxUs/giphy.gif" width="100%" alt="Project 6">
           </a>
           <p>
-            <a href="https://github.com/Chungus1310/Ai-pc-tools" target="_blank">
+            <a href="https://github.com/Chungus1310/meezaref_studio" target="_blank">
               <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
-            <a href="https://github.com/Chungus1310/Ai-pc-tools" target="_blank">
+            <a href="https://github.com/Chungus1310/meezaref_studio" target="_blank">
               <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&logo=codepen">
             </a>
           </p>
-          <p><strong>Python, Qt, Speech Recognition</strong></p>
-          <p>A Windows assistant for automated system management with voice commands, advanced file management, and productivity tools.</p>
+          <p><strong>Python, PyQt6, OpenCV, GPU Acceleration</strong></p>
+          <p>A modern image reference tool for artists with layer-based workflow, smart selection tools, and GPU-accelerated image processing.</p>
         </div>
       </td>
     </tr>
