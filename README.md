@@ -243,7 +243,6 @@ graph TD
   <img src="https://img.shields.io/badge/SQLite-My%20Beloved-07405E?style=flat-square&logo=sqlite" alt="SQLite" />
   <img src="https://img.shields.io/badge/Windows%20.exe-Shipped-success?style=flat-square&logo=windows" alt=".exe" />
   <img src="https://img.shields.io/badge/README%20Length-Novel-orange?style=flat-square&logo=markdown" alt="README length" />
-  <img src="https://img.shields.io/badge/Location-Singapore-red?style=flat-square&logo=googlemaps" alt="Location" />
 </p>
 
 <p align="center">
